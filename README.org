@@ -3,7 +3,15 @@
   /Tomatinho/ is a simple and beautiful [[http://www.pomodorotechnique.com/][pomodoro technique]] timer that
   runs on Emacs and is not bloated with distractive graphics or inorganic
   commands. Just press Enter, see time flow and do you best.
+  
+* About this fork
 
+  I'm adding a couple of features that I would like.
+  - Ability to tell tomatinho that I've stopped working without immediately starting a new pomodoro.
+  - Remove tick noise (when used as tick still plays when starting tomatinho)
+  - Reduce frequence of tack noise
+  - maybe some other stuff... don't want this to get too involved.
+  
 * Using it
 
   I bind it here to /F12/ with the following command:
